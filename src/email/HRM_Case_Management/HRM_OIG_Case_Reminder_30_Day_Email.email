@@ -1,0 +1,11 @@
+{!HR_Case__c.HRM_Assigned_Specialist__c}, 
+
+It has been 30 days since this OIG Case (# {!HR_Case__c.HRM_OIG_Case_Number__c}) was received. OIG cases must be closed in 60 days. You have {!HR_Case__c.HRM_Total_Remaining_Days_to_Close_Case__c} days to close this case. 
+
+This is also a reminder to provide OIG a status report. 
+
+Please review this case (# {!HR_Case__c.Name} ) using the link below: 
+{!HR_Case__c.Link} 
+
+Thank you, 
+HRM Team

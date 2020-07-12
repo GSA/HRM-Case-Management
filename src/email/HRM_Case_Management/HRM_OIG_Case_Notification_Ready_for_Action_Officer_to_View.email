@@ -1,0 +1,10 @@
+{!HR_Case__c.HRM_ROO_AO__c}, 
+
+You are the assigned Action Officer for an OIG Case (# {!HR_Case__c.HRM_OIG_Case_Number__c}). This case is ready to be reviewed and closed. This case was received on {!HR_Case__c.HRM_Date_Received__c}, and must be closed in {!HR_Case__c.HRM_Total_Remaining_Days_to_Close_Case__c} days. 
+
+Please review this case (# {!HR_Case__c.Name} ) using the link below: 
+{!HR_Case__c.Link} 
+
+
+Thank you, 
+HRM Team

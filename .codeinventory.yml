@@ -1,0 +1,14 @@
+name: HRM Case Management
+description: Provides Chief People Officer (HR) with a tool to track various cases that are received from general users and the Inspector General. It is also meant to help streamline and make consistent the process for handling administrative referrals (violations of personnel policies or practices) and misconduct referrals (which involve acts of behavior, ethics, misuse or negligence).
+contact:
+  email: gsalabs@gsa.gov
+languages:
+  - javascript
+  - apex
+permissions:
+  licenses:
+    - URL: http://www.usa.gov/publicdomain/label/1.0/
+      name: PD
+  usageType: openSource
+repositoryURL: https://github.com/GSA/HRM-Case-Management
+organization: GSA

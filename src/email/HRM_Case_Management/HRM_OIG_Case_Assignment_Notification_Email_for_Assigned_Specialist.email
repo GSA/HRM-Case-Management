@@ -1,0 +1,9 @@
+{!HR_Case__c.HRM_Assigned_Specialist__c},
+
+You are the Assigned Specialist on an {!HR_Case__c.RecordType} (# {!HR_Case__c.HRM_OIG_Case_Number__c}).  This case was received on {!HR_Case__c.HRM_Date_Received__c} and must be closed in {!HR_Case__c.HRM_Total_Remaining_Days_to_Close_Case__c} days.
+
+Please review this case (#  {!HR_Case__c.Name} ) using the link below:
+{!HR_Case__c.Link}
+
+Thank you,
+HRM Team

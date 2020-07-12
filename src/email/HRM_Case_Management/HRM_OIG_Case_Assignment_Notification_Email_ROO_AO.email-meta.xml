@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>HRM OIG Case Assignment Notification Email ROO/AO</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>HRM OIG Case Assignment Notification Email ROO/AO</name>
+    <style>none</style>
+    <subject>An {!HR_Case__c.RecordType} # {!HR_Case__c.Name} Has Been Assigned to You</subject>
+    <type>text</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

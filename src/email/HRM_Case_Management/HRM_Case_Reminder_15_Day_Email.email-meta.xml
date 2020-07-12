@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>HR Case Reminder 15 Day Email</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <name>HRM Case Reminder 15 Day Email for 30 Day Deadline</name>
+    <style>none</style>
+    <subject>{!HR_Case__c.RecordType} 15 Day Reminder for Case {!HR_Case__c.Name}</subject>
+    <type>text</type>
+    <uiType>Aloha</uiType>
+</EmailTemplate>

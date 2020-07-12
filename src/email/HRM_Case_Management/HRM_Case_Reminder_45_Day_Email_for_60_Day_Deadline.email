@@ -1,0 +1,9 @@
+{!HR_Case__c.HRM_Assigned_Specialist__c}, 
+
+It has been 45 days since this {!HR_Case__c.RecordType} was created on {!HR_Case__c.CreatedDate}. {!HR_Case__c.RecordType}s must be closed in 60 days. You have {!HR_Case__c.HRM_Total_Remaining_Days_to_Close_Case__c} days to close this case. 
+
+Please review this case (# {!HR_Case__c.Name} ) using the link below: 
+{!HR_Case__c.Link} 
+
+Thank you, 
+HRM Team
